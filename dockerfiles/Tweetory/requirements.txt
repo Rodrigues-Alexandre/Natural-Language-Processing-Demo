@@ -1,0 +1,4 @@
+notebook
+pymongo
+requests
+watson-developer-cloud
