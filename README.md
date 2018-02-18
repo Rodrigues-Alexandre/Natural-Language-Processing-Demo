@@ -16,10 +16,10 @@ Sentiments (clockwise by order of occurrence and detection percentage):
 ![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20input%20Paolo.png)
 
 Categories (clockwise by order of occurrence in user Tweets):
-![alt]()
+![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20categories%20Paolo.png)
 
 Sentiments (clockwise by order of occurrence and detection percentage):
-![alt]()
+![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20sentiments%20paolo.png)
 
 This Natural Language Processing program was created to show Master 2 French students of Université Pierre et Marie Currie ( Universités Sorbonne ) how to achieve sentiment analysis and natural language processing of Tweets with Watson cloud SDK for free. It uses Docker to help students understand basic concepts and parameters behind containers.
 
@@ -77,7 +77,7 @@ Make sure you don't start hundreds or thousands of process at the same time (pot
 
 For multiprocessing usage understand that its support is a little bit tricky in Python (you will have to specify what is the main program and what will have to be executed during multiprocess) and that I did not find an implementation working with Jupyter (you will have to make your own Python scripts out of Jupyter and change the the dockerfiles accordingly)
 
-If you feel you can improve the process time to organize categories and sentiments when you have tens of thousands tweets you are right: you can improve it by working on **if CategoriesCollection.find({'label' : WatsonCategoryLabel}).count() > 0:** and avoid (be careful doing this !) requesting this find on MongoDB each time you process a new tweet :-)
+If you feel you can improve the process time to organize categories and sentiments when you have tens of thousands tweets you are right: check **if CategoriesCollection.find({'label' : WatsonCategoryLabel}).count() > 0:** and avoid (be careful doing this !) requesting this find on MongoDB each time the program process a new tweet :-)
 
 ## Disclaimers
 This project, files and tutorial are provided as-is with no guarantee to work on your own system or setup. Also note that I built this project for teaching purpose with no intention of production usage particularly regarding the security and the performance.
