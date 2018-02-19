@@ -3,13 +3,10 @@
 To make it brief, this program will analyze twitter accounts and will show its areas of interests with a summary of sentiment analysis. At a larger scale -and with performance improvements ! :-) -  this program could be used to help a twitter user select best interest-matching twittos accounts.
 
 ### Output sample with NASA tweets categorized by Watson with 90% of confidence :
-<p align="center">
-![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20input.png)
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20input.png"></p>
+
 Categories (clockwise by order of occurrence in user Tweets):
-<p align="center">
-![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20categories.png)
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20categories.png"></p>
 
 Sentiments (clockwise by order of occurrence and detection percentage):
 <p align="center">
