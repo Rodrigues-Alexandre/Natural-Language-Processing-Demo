@@ -1,4 +1,4 @@
-# Natural Language Understanding
+# Natural Language Processing Demo
 ## Goal of this project
 To make it brief, this program will analyze twitter accounts and will show its areas of interests with a summary of sentiment analysis. At a larger scale -and with performance improvements ! :-) -  this program could be used to help a twitter user select best interest-matching twittos accounts.
 
