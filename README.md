@@ -9,22 +9,17 @@ Categories (clockwise by order of occurrence in user Tweets):
 <p align="center"><img src="https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20categories.png"></p>
 
 Sentiments (clockwise by order of occurrence and detection percentage):
-<p align="center">
-![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20sentiments.png)
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20sentiments.png"></p>
 
 ### Output sample with Paolo Coelho tweets categorized by Watson with 90% of confidence :
-<p align="center">
-![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20input%20Paolo.png)
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20input%20Paolo.png"></p>
+
 Categories (clockwise by order of occurrence in user Tweets):
-<p align="center">
-![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20categories%20Paolo.png)
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20categories%20Paolo.png"></p>
+
 Sentiments (clockwise by order of occurrence and detection percentage):
-<p align="center">
-![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20sentiments%20paolo.png)
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20sentiments%20paolo.png"></p>
+
 This Natural Language Processing program was created to show Master 2 French students of Université Pierre et Marie Currie ( Universités Sorbonne ) how to achieve sentiment analysis and natural language processing of Tweets with Watson cloud SDK for free. It uses Docker to help students understand basic concepts and parameters behind containers.
 
 ## Architecture
