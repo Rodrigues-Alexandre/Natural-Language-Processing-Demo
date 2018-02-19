@@ -3,24 +3,31 @@
 To make it brief, this program will analyze twitter accounts and will show its areas of interests with a summary of sentiment analysis. At a larger scale -and with performance improvements ! :-) -  this program could be used to help a twitter user select best interest-matching twittos accounts.
 
 ### Output sample with NASA tweets categorized by Watson with 90% of confidence :
+<p align="center">
 ![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20input.png)
-
+</p>
 Categories (clockwise by order of occurrence in user Tweets):
+<p align="center">
 ![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20categories.png)
+</p>
 
 Sentiments (clockwise by order of occurrence and detection percentage):
+<p align="center">
 ![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20sentiments.png)
-
+</p>
 
 ### Output sample with Paolo Coelho tweets categorized by Watson with 90% of confidence :
+<p align="center">
 ![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20input%20Paolo.png)
-
+</p>
 Categories (clockwise by order of occurrence in user Tweets):
+<p align="center">
 ![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20categories%20Paolo.png)
-
+</p>
 Sentiments (clockwise by order of occurrence and detection percentage):
+<p align="center">
 ![alt](https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20sentiments%20paolo.png)
-
+</p>
 This Natural Language Processing program was created to show Master 2 French students of Université Pierre et Marie Currie ( Universités Sorbonne ) how to achieve sentiment analysis and natural language processing of Tweets with Watson cloud SDK for free. It uses Docker to help students understand basic concepts and parameters behind containers.
 
 ## Architecture
