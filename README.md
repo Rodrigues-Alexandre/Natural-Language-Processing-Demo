@@ -5,7 +5,7 @@ To make it brief, this program will analyze twitter accounts and will show its a
 ### Output sample with NASA tweets categorized by Watson with 90% of confidence :
 <p align="center"> <img src="https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20input.png"></p>
 
-Categories (clockwise by order of occurrence in user Tweets):
+Categories (anticlockwise by order of occurrence in user Tweets):
 <p align="center"><img src="https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20categories.png"></p>
 
 Sentiments (clockwise by order of occurrence and detection percentage):
@@ -14,7 +14,7 @@ Sentiments (clockwise by order of occurrence and detection percentage):
 ### Output sample with Paolo Coelho tweets categorized by Watson with 90% of confidence :
 <p align="center"><img src="https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20input%20Paolo.png"></p>
 
-Categories (clockwise by order of occurrence in user Tweets):
+Categories (anticlockwise by order of occurrence in user Tweets):
 <p align="center"><img src="https://raw.githubusercontent.com/Rodrigues-Alexandre/Natural-Language-Understanding/master/IMG/Graph%20categories%20Paolo.png"></p>
 
 Sentiments (clockwise by order of occurrence and detection percentage):
